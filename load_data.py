@@ -80,4 +80,5 @@ def get_loader(args):
         trainset, batch_size=args.batch_size, shuffle=True, num_workers=2
     )
     args.serie_size = X_scaled.shape[1]
+    print(X_scaled.shape)
     return trainloader, X_scaled

@@ -52,7 +52,7 @@ def get_arguments():
     parser.add_argument(
         "--max_epochs",
         type=int,
-        default=50,
+        default=20,
         help="Maximum epochs numer of the full model training",
     )
 
