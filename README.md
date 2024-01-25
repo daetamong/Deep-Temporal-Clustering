@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deep-temporal-clustering pytorch implemention
 A non-official pytorch implementation of the DTC model , presented in the paper :
 > Madiraju, N. S., Sadat, S. M., Fisher, D., & Karimabadi, H. (2018). Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features. http://arxiv.org/abs/1802.01059
@@ -17,3 +18,6 @@ The autoencoder and clustering models weights will be saved in a **models_weight
 * Add heatmap network 
 * Add Auto Correlation based Similarity. 
 * Output more metrics for training. 
+=======
+# Deep-Temporal-Clustering
+>>>>>>> 5d5e490c4714db2752fd65ec11225cd375b99c41
